@@ -104,7 +104,6 @@ This project is a simple web-based Net Salary Calculator. Users can enter their 
 /project-root
 ├── index.html
 ├── index.js
-└── styles
 └── style.css
 
 ### Files
