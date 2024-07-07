@@ -143,7 +143,3 @@ This project is a simple web-based Net Salary Calculator. Users can enter their 
 - Ensure all input values are positive numbers.
 - The calculations are based on predefined tax rates, NHIF rate, and NSSF rate as constants in the `index.js` file.
 
-
-### License
-
-This project is open-source and available under the MIT License.
